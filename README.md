@@ -10,10 +10,14 @@ Anyway feel free to use.
 ## Library list
 Might not needed this though
 
--ultralytics
+- ultralytics
+- opencv
+- numpy
+- else
 
--opencv
+## Taks Allocation
 
--numpy
+- drone movement & drone : kingsans, jyk
+- Object detect AI & Video processing & else : enochmia, kdh, Hiarii23, yj
 
--else
+- Project Manager : Enochmia
