@@ -11,6 +11,9 @@ Anyway feel free to use.
 Might not needed this though
 
 -ultralytics
+
 -opencv
+
 -numpy
+
 -else
