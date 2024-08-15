@@ -1,0 +1,4 @@
+imutils
+requests
+numpy
+opencv
