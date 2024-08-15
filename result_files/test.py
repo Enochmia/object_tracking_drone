@@ -4,7 +4,7 @@ import numpy as np
 url = 'path'
 
 while True:
-    cap = cv2.VideoCapture(url+'/shot.jpg')
+    cap = cv2.VideoCapture(url)
     ret, frame = cap.read()
     res = cv2.resize(frame, dsize=(640, 640), interpolation=cv2.INTER_CUBIC)
     cv2.imshow("inst", res)
