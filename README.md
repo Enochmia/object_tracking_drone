@@ -3,6 +3,6 @@ this is repo about object tracking drone
 
 Of course it is just high school project, So the quality might be bad :)
 
-it's a spaghetti code hahaha
+it's a spaghetti code Hahaha
 
 Anyway feel free to use.
