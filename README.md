@@ -1,23 +1,20 @@
-# object_tracking_drone
-this is repo about object tracking drone
+# Object_tracking_drone via AI
+This is a repo about object tracking drone.   
+Before you use this, this is just normal high school club team project, So don't expect great quality.   :(   
+But We Tried our best! :)
 
-Of course it is just high school project, So the quality might be bad :)
-
-it's a spaghetti code Hahaha
-
-Anyway feel free to use.
+Anyway feel free to use it.
 
 ## Library list
-Might not needed this though
-
+You may not needed though
 - ultralytics
 - opencv
 - numpy
-- else
+- pytorch
+- else <- this is for yolo v1
+  - We tried to use yolov1 for object tracking but for more better performance, we choosed yolov8 from ultralytics
 
-## Taks Allocation
-
-- drone movement & drone : kingsans, jyk
-- Object detect AI & Video processing & else : enochmia, kdh, Hiarii23, yj
-
-- Project Manager : Enochmia
+## Team
+- Drone movement : kingsans787(SJ Han), rnjswndyd137(JY Kwon)
+- Object detection AI & Video processing & else : Enochmia(DH Lim), kd347(DH Kim), VERFLUCT(SI Park), yj(YJ Yun)
+- Project Manager : Enochmia(DH Lim)
