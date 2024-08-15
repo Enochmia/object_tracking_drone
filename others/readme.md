@@ -1,0 +1,5 @@
+you can upload other files you made at here
+
+DON'T UPLOAD OTHER FILES AT RESULT_FILES
+
+ALSO THIS FOLDER IS ONLY FOR EXTRA CODES AND HISTORY
