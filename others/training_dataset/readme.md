@@ -1,1 +1,1 @@
-# Uploading please Wait. Thank you!
+# Uploaded! Thanks for waiting!
