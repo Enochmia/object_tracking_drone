@@ -17,4 +17,4 @@ You may not needed though
 ## Team
 - Drone movement : kingsans787(SJ Han), rnjswndyd137(JY Kwon)
 - Object detection AI & Video processing & else : Enochmia(DH Lim), kd347(DH Kim), VERFLUCT(SI Park), yj(YJ Yoon)
-- Project Manager : Enochmia(DH Lim)
+- Project Manager, Lead Programmer : Enochmia(DH Lim)
