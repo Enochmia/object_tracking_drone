@@ -18,3 +18,5 @@ You may not needed though
 - Drone movement : kingsans787(SJ Han), rnjswndyd137(JY Kwon)
 - Object detection AI & Video processing & else : Enochmia(DH Lim), kd347(DH Kim), VERFLUCT(SI Park), yj(YJ Yoon)
 - Project Manager, Lead Programmer : Enochmia(DH Lim)
+
+### Tried to remove paths inside the code but some are still remaining. So ignore those please :>
