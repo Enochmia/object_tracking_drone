@@ -19,4 +19,5 @@ You may not needed though
 - Object detection AI & Video processing & else : Enochmia(DH Lim), kd347(DH Kim), VERFLUCT(SI Park), yj(YJ Yoon)
 - Project Manager, Lead Programmer : Enochmia(DH Lim)
 
-### Tried to remove paths inside the code but some are still remaining. So ignore those please :>
+### Alert
+- Tried to remove paths inside the code but some are still remaining. So ignore those please :>
