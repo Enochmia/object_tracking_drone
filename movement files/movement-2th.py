@@ -1,3 +1,5 @@
+#아두이노 코드의 가장 기본 바탕이 되는 코드들
+
 import serial
 import time
 
